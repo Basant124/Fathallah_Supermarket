@@ -45,6 +45,3 @@ This project provides an **interactive sales analysis dashboard** for **Fathalla
 * The **Top 10 products** make up a large percentage of total sales.
 * Certain branches outperform others, suggesting **regional demand variations**.
 * Treemap visualization reveals **sub-category contribution** to overall quantity.
-
-
-Would you like me to make this **more technical (with SQL/Python preprocessing steps)** or keep it **business-focused for management**?
